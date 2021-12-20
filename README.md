@@ -4,4 +4,4 @@ I'm a Full Stack Developer that has been in the web hosting industry since 2010.
 
 I'm interested in DevOps, Automation, and Software Engineering. I've created QA peer programs and managed testing infrastructure, regulations software, and systems monitoring solutions. I'm currently finishing up my Bachelor of Science - BS focused in Computer Software Engineering from Southern New Hampshire University. 
 
-My recent languages/tools: JavaScript (NodeJS), MySQL (MariaDB), Cypress.IO, Nomad, Vault, Perl
+My recent languages/tools: Python, Julia, JavaScript (NodeJS), MySQL (MariaDB), Cypress.IO, Nomad, Vault, and Perl
