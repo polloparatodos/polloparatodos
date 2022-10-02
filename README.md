@@ -1,4 +1,3 @@
 ### Hi, I'm polloparatodos
 
-I'm a DevOps Engineer and finishing my degree (finally).
-
+I'll probably put better info here one day...
