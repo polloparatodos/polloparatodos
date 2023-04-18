@@ -1,3 +1,5 @@
 ### Hi, I'm polloparatodos
 
-I'll probably put better info here one day...
+Current role: DevOps Engineer
+
+Non-development interests: Camping, coffee, and cars
