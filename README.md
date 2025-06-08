@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ryan (aka polloparatodos)
+# Hi, I'm Ryan (aka polloparatodos)
 
 Welcome to my personal GitHub repository! I'm a DevOps Engineer passionate about automation, open-source contributions, and exploring diverse programming languages. This space serves as a hub for my experiments, projects, and learning endeavors.
 
@@ -14,18 +14,19 @@ Welcome to my personal GitHub repository! I'm a DevOps Engineer passionate about
 
 - **[class-data-inheritable](https://github.com/polloparatodos/class-data-inheritable)**: A Perl module that provides inheritable and overridable class data. It's a utility for object-oriented Perl programming, enhancing code reusability and modularity.
 
-## 📚 About Me
+## About Me
 
-- 💼 **Profession**: DevOps Engineer at [cPanel](https://cpanel.net/)
-- 🎓 **Graduate Studies**: Currently pursuing a Master of Science in Computer Science (MSCS) at Baylor University, with interests in cryptography, reverse engineering, and discrete mathematics .
-- 🌍 **Location**: Texas, USA
-- 🕒 **Timezone**: Central Time (UTC -05:00)
-- 🧠 **Interests**: Automation, open-source software, programming languages (Ruby, Python, Julia, C++, Perl), and continuous learning.
+- **Profession**: DevOps Engineer at [cPanel](https://cpanel.net/)
+- **Graduate Studies**: Currently pursuing a Master of Science in Computer Science (MSCS) at Baylor University, with interests in cryptography, reverse engineering, and discrete mathematics .
+- **Location**: Texas, USA
+- **Timezone**: Central Time (UTC -05:00)
+- **Interests**: Automation, open-source software, programming languages (Ruby, Python, Julia, C++, Perl), and continuous learning.
 
 ## 💻 Programming Interests
 
 I enjoy pushing the boundaries of code through:
 
-- 🔢 **Code Golf** – Writing the shortest and most clever code possible
-- 🌀 **Quines** – Programs that reproduce their own source code
-- 🧮 **Mathematical Challenges** – Solving problems like those on [Project Euler](https://projecteuler.net), especially those involving number theory and computational logic
+- **Code Golf** – Writing the shortest and most clever code possible
+- **Quines** – Programs that reproduce their own source code
+- **Mathematical Challenges** – Solving problems like those on [Project Euler](https://projecteuler.net), especially those involving number theory and computational logic
+
