@@ -22,7 +22,7 @@ Welcome to my personal GitHub repository! I'm a DevOps Engineer passionate about
 - **Timezone**: Central Time (UTC -05:00)
 - **Interests**: Automation, open-source software, programming languages (Ruby, Python, Julia, C++, Perl), and continuous learning.
 
-## 💻 Programming Interests
+## Programming Interests
 
 I enjoy pushing the boundaries of code through:
 
